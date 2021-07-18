@@ -3,6 +3,16 @@ from django.db import models
 # Create your models here.
 
 
+class ORDER(models.Model):
+    backend_id = models.IntegerField(blank=True, null=True)
+    bpla = models.IntegerField(blank=True, null=True)
+    track = models.TextField(blank=True, null=True)
+
+    class Meta:
+        managed = True
+        db_table = 'order'
+
+
 class BPLA(models.Model):
     type = models.CharField(max_length=10)
     capacity = models.SmallIntegerField(blank=True, null=True)
@@ -13,6 +23,8 @@ class BPLA(models.Model):
     azimuth = models.FloatField(blank=True, null=True)
     cur_departure = models.IntegerField(blank=True, null=True)
     cur_destination = models.IntegerField(blank=True, null=True)
+    lat_delta = models.FloatField(blank=True, null=True)
+    long_delta = models.FloatField(blank=True, null=True)
 
     class Meta:
         managed = True
@@ -25,16 +37,8 @@ class HUB(models.Model):
     latitude = models.CharField(max_length=15, null=True)
     longitude = models.CharField(max_length=15, null=True)
     ip = models.CharField(max_length=15, null=True)
+    backend_id = models.IntegerField(blank=True, null=True)
 
     class Meta:
         managed = True
         db_table = 'hub'
-
-
-class ORDER(models.Model):
-    backend_id = models.IntegerField(blank=True, null=True)
-    track = models.TextField(blank=True, null=True)
-
-    class Meta:
-        managed = True
-        db_table = 'order'

@@ -1,9 +1,10 @@
 from django.urls import path
 from . import views
-import ast
 
 urlpatterns = [
     path('orders', views.create_drone),
-    path('drones', views.manage_drones)
+    path('drones', views.manage_drones),
+    path('hubs', views.manage_hubs),
+    path('acceleration', views.apply_acceleration)
 ]
 
