@@ -33,9 +33,9 @@ def create_drone(request):
                 print("order", order, "finished!")
             return HttpResponse("<h1>No destination hub hub</h1>")
         # Загружаем данные о хабе отправления и прибытия
-        backend_dep_url = "http://26.77.72.147:8080/api/hubs/" + str(delivery_data['departure_hub_id'])
+        backend_dep_url = "http://45.79.251.166:8080/api/hubs/" + str(delivery_data['departure_hub_id'])
         dep_hub_data = ast.literal_eval(requests.get(backend_dep_url).content.decode('UTF-8'))
-        backend_dest_url = "http://26.77.72.147:8080/api/hubs/" + str(delivery_data['destination_hub_id'])
+        backend_dest_url = "http://45.79.251.166:8080/api/hubs/" + str(delivery_data['destination_hub_id'])
         dest_hub_data = ast.literal_eval(requests.get(backend_dest_url).content.decode('UTF-8'))
 
         # создаем хабы в БД, если их там еще нет
@@ -126,7 +126,7 @@ def create_drone(request):
         new_drone.save()
 
         # Отсылаем данные о созданном дроне в БД бэкенда
-        backend_add_drone_url = "http://26.77.72.147:8080/api/drones"
+        backend_add_drone_url = "http://45.79.251.166:8080/api/drones"
         drone_dict = {'board_number': new_drone.id,
                       'type': new_drone.type,
                       'capacity': new_drone.capacity,
@@ -141,7 +141,7 @@ def create_drone(request):
         requests.post(backend_add_drone_url, data=drone_dict)
 
         # Обновляем данные по перевозимым дроном заказам в БД бэкенда и сохраняем маршруты в локальную БД
-        backend_order_update_url = "http://26.77.72.147:8080/api/orders/"
+        backend_order_update_url = "http://45.79.251.166:8080/api/orders/"
         delivery_data = dict(delivery_data)
 
         for order in delivery_data['orders']:
@@ -172,7 +172,7 @@ def manage_drones(request):
     if request.method == "DELETE":
         drones = BPLA.objects.all()
         drones.delete()
-        backend_add_drone_url = "http://26.77.72.147:8080/api/drones"
+        backend_add_drone_url = "http://45.79.251.166:8080/api/drones"
         requests.delete(backend_add_drone_url, json={})
         return HttpResponse("<h1>Success</h1>")
     else:
@@ -198,7 +198,7 @@ def manage_drones(request):
                                                                                                 drone.lat_delta *
                                                                                                 multiplier))
                 # Отсылаем данные об обновлении дрона в БД бэкенда
-                backend_add_drone_url = "http://26.77.72.147:8080/api/drones/" + str(drone.id) + "/"
+                backend_add_drone_url = "http://45.79.251.166:8080/api/drones/" + str(drone.id) + "/"
                 drone_dict = {drone.id: {'board_number': drone.id,
                                          'type': drone.type,
                                          'capacity': drone.capacity,
@@ -218,7 +218,7 @@ def manage_drones(request):
                                       (drone.latitude, drone.longitude)) >= calculate_distance(
                     (departure_hub.latitude, departure_hub.longitude),
                     (destination_hub.latitude, destination_hub.longitude)):
-                    url = "http://26.68.12.236:" + str(8000 + int(drone.cur_destination)) + "/api/orders"
+                    url = "http://78.107.239.174:" + str(8000 + int(drone.cur_destination))
                     orders = ORDER.objects.filter(bpla=drone.id)
                     for order in orders:
                         order_data = {'order_id': int(order.backend_id), 'order_track': order.track}
@@ -228,10 +228,10 @@ def manage_drones(request):
                     print("drone", drone.id, "got to their destination hub!")
                     drones_to_delete_array.append(drone.id)
                     drone.delete()
-            backend_add_drone_url = "http://26.77.72.147:8080/api/drones"
+            backend_add_drone_url = "http://45.79.251.166:8080/api/drones"
             requests.put(backend_add_drone_url, json=json.dumps(update_dict))
             delete_dict.update({'id': drones_to_delete_array})
-            backend_delete_drone_url = "http://26.77.72.147:8080/api/drones"
+            backend_delete_drone_url = "http://45.79.251.166:8080/api/drones"
             try:
                 response = requests.delete(backend_delete_drone_url, json=json.dumps(delete_dict))
                 print(response.content)

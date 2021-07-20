@@ -1,0 +1,731 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 19, 2021 - 15:11:38
+Django version 3.2.5, using settings 'HubServer.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+b'<h1>No uavs to delete.</h1>'
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Jul 19 20:01:50 2021] ***
+compiled with version: 8.3.0 on 19 July 2021 18:10:34
+os: Linux-4.19.0-17-amd64 #1 SMP Debian 4.19.194-2 (2021-06-21)
+nodename: django-server
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /drone_manager/drone_manager/HubServer
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /drone_manager/drone_manager/HubServer
+your processes number limit is 7866
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8002 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.3 (default, Jan 22 2021, 20:04:44)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x562e8fd642f0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801944 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x562e8fd642f0 pid: 2025 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2025)
+spawned uWSGI worker 1 (pid: 2026, cores: 1)
+spawned uWSGI worker 2 (pid: 2027, cores: 1)
+spawned uWSGI worker 3 (pid: 2028, cores: 1)
+spawned uWSGI worker 4 (pid: 2029, cores: 1)
+spawned uWSGI worker 5 (pid: 2030, cores: 1)
+spawned uWSGI worker 6 (pid: 2031, cores: 1)
+spawned uWSGI worker 7 (pid: 2032, cores: 1)
+spawned uWSGI worker 8 (pid: 2033, cores: 1)
+spawned uWSGI worker 9 (pid: 2034, cores: 1)
+spawned uWSGI worker 10 (pid: 2035, cores: 1)
+Gracefully killing worker 10 (pid: 2035)...
+Gracefully killing worker 9 (pid: 2034)...
+Gracefully killing worker 8 (pid: 2033)...
+Gracefully killing worker 7 (pid: 2032)...
+Gracefully killing worker 6 (pid: 2031)...
+Gracefully killing worker 5 (pid: 2030)...
+Gracefully killing worker 4 (pid: 2029)...
+Gracefully killing worker 3 (pid: 2028)...
+Gracefully killing worker 2 (pid: 2027)...
+Gracefully killing worker 1 (pid: 2026)...
+...gracefully killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /drone_manager/drone_manager/HubServer
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (127.0.0.1:8002)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from drone_manager_app.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Jul 19 20:04:10 2021] ***
+compiled with version: 8.3.0 on 19 July 2021 18:10:34
+os: Linux-4.19.0-17-amd64 #1 SMP Debian 4.19.194-2 (2021-06-21)
+nodename: django-server
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /drone_manager/drone_manager/HubServer
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /drone_manager/drone_manager/HubServer
+your processes number limit is 7866
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited INET address 127.0.0.1:8002 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.3 (default, Jan 22 2021, 20:04:44)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55e627e46d30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801944 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55e627e46d30 pid: 2025 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 2025)
+spawned uWSGI worker 1 (pid: 2066, cores: 1)
+spawned uWSGI worker 2 (pid: 2067, cores: 1)
+spawned uWSGI worker 3 (pid: 2068, cores: 1)
+spawned uWSGI worker 4 (pid: 2069, cores: 1)
+spawned uWSGI worker 5 (pid: 2070, cores: 1)
+spawned uWSGI worker 6 (pid: 2071, cores: 1)
+spawned uWSGI worker 7 (pid: 2072, cores: 1)
+spawned uWSGI worker 8 (pid: 2073, cores: 1)
+spawned uWSGI worker 9 (pid: 2074, cores: 1)
+spawned uWSGI worker 10 (pid: 2075, cores: 1)
+[pid: 2066|app: 0|req: 1/1] 176.14.243.50 () {38 vars in 523 bytes} [Mon Jul 19 20:06:53 2021] DELETE /api/drones => generated 16 bytes in 92 msecs (HTTP/1.1 200) 5 headers in 165 bytes (1 switches on core 0)
+...brutally killing workers...
+Gracefully killing worker 3 (pid: 2068)...
+Gracefully killing worker 8 (pid: 2073)...
+Gracefully killing worker 2 (pid: 2067)...
+Gracefully killing worker 5 (pid: 2070)...
+Gracefully killing worker 9 (pid: 2074)...
+Gracefully killing worker 6 (pid: 2071)...
+Gracefully killing worker 4 (pid: 2069)...
+Gracefully killing worker 10 (pid: 2075)...
+Gracefully killing worker 7 (pid: 2072)...
+Gracefully killing worker 1 (pid: 2066)...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /drone_manager/drone_manager/HubServer
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (127.0.0.1:8002)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from drone_manager_app.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Jul 19 20:11:39 2021] ***
+compiled with version: 8.3.0 on 19 July 2021 18:10:34
+os: Linux-4.19.0-17-amd64 #1 SMP Debian 4.19.194-2 (2021-06-21)
+nodename: django-server
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /drone_manager/drone_manager/HubServer
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /drone_manager/drone_manager/HubServer
+your processes number limit is 7866
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited INET address 127.0.0.1:8002 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.3 (default, Jan 22 2021, 20:04:44)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55aa86778d30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801944 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55aa86778d30 pid: 2025 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 2025)
+spawned uWSGI worker 1 (pid: 2241, cores: 1)
+spawned uWSGI worker 2 (pid: 2242, cores: 1)
+spawned uWSGI worker 3 (pid: 2243, cores: 1)
+spawned uWSGI worker 4 (pid: 2244, cores: 1)
+spawned uWSGI worker 5 (pid: 2245, cores: 1)
+spawned uWSGI worker 6 (pid: 2246, cores: 1)
+spawned uWSGI worker 7 (pid: 2247, cores: 1)
+spawned uWSGI worker 8 (pid: 2248, cores: 1)
+spawned uWSGI worker 9 (pid: 2249, cores: 1)
+spawned uWSGI worker 10 (pid: 2250, cores: 1)
+Mon Jul 19 20:13:08 2021 - uWSGI worker 10 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 9 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 8 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 7 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Mon Jul 19 20:13:08 2021 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Jul 19 20:15:49 2021] ***
+compiled with version: 8.3.0 on 19 July 2021 18:10:34
+os: Linux-4.19.0-17-amd64 #1 SMP Debian 4.19.194-2 (2021-06-21)
+nodename: django-server
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /drone_manager/drone_manager/HubServer
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /drone_manager/drone_manager/HubServer
+your processes number limit is 7866
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8002 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.3 (default, Jan 22 2021, 20:04:44)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56546ecab2e0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801944 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x56546ecab2e0 pid: 649 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 649)
+spawned uWSGI worker 1 (pid: 650, cores: 1)
+spawned uWSGI worker 2 (pid: 651, cores: 1)
+spawned uWSGI worker 3 (pid: 652, cores: 1)
+spawned uWSGI worker 4 (pid: 653, cores: 1)
+spawned uWSGI worker 5 (pid: 654, cores: 1)
+spawned uWSGI worker 6 (pid: 655, cores: 1)
+spawned uWSGI worker 7 (pid: 656, cores: 1)
+spawned uWSGI worker 8 (pid: 657, cores: 1)
+spawned uWSGI worker 9 (pid: 658, cores: 1)
+spawned uWSGI worker 10 (pid: 659, cores: 1)
+...gracefully killing workers...
+Gracefully killing worker 5 (pid: 654)...
+Gracefully killing worker 4 (pid: 653)...
+Gracefully killing worker 3 (pid: 652)...
+Gracefully killing worker 6 (pid: 655)...
+Gracefully killing worker 7 (pid: 656)...
+Gracefully killing worker 2 (pid: 651)...
+Gracefully killing worker 8 (pid: 657)...
+Gracefully killing worker 9 (pid: 658)...
+Gracefully killing worker 10 (pid: 659)...
+Gracefully killing worker 1 (pid: 650)...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /drone_manager/drone_manager/HubServer
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (127.0.0.1:8002)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from drone_manager_app.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Mon Jul 19 20:15:55 2021] ***
+compiled with version: 8.3.0 on 19 July 2021 18:10:34
+os: Linux-4.19.0-17-amd64 #1 SMP Debian 4.19.194-2 (2021-06-21)
+nodename: django-server
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /drone_manager/drone_manager/HubServer
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /drone_manager/drone_manager/HubServer
+your processes number limit is 7866
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited INET address 127.0.0.1:8002 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.3 (default, Jan 22 2021, 20:04:44)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x565219834d20
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801944 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x565219834d20 pid: 649 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 649)
+spawned uWSGI worker 1 (pid: 660, cores: 1)
+spawned uWSGI worker 2 (pid: 661, cores: 1)
+spawned uWSGI worker 3 (pid: 662, cores: 1)
+spawned uWSGI worker 4 (pid: 663, cores: 1)
+spawned uWSGI worker 5 (pid: 664, cores: 1)
+spawned uWSGI worker 6 (pid: 665, cores: 1)
+spawned uWSGI worker 7 (pid: 666, cores: 1)
+spawned uWSGI worker 8 (pid: 667, cores: 1)
+spawned uWSGI worker 9 (pid: 668, cores: 1)
+spawned uWSGI worker 10 (pid: 669, cores: 1)
+[pid: 660|app: 0|req: 1/1] 176.14.243.50 () {38 vars in 523 bytes} [Mon Jul 19 20:16:18 2021] DELETE /api/drones => generated 16 bytes in 47 msecs (HTTP/1.1 200) 5 headers in 165 bytes (1 switches on core 0)
+[pid: 660|app: 0|req: 2/2] 176.14.243.50 () {38 vars in 523 bytes} [Mon Jul 19 21:45:17 2021] DELETE /api/drones => generated 16 bytes in 7 msecs (HTTP/1.1 200) 5 headers in 165 bytes (1 switches on core 0)
+Not Found: /_ignition/execute-solution
+[pid: 660|app: 0|req: 3/3] 49.234.218.225 () {40 vars in 635 bytes} [Tue Jul 20 02:06:39 2021] POST /_ignition/execute-solution => generated 2267 bytes in 14 msecs (HTTP/1.1 404) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /
+[pid: 660|app: 0|req: 4/4] 85.105.19.142 () {30 vars in 344 bytes} [Tue Jul 20 02:27:35 2021] GET / => generated 2165 bytes in 4 msecs (HTTP/1.0 404) 5 headers in 159 bytes (1 switches on core 0)
+...brutally killing workers...
+Gracefully killing worker 6 (pid: 665)...
+Gracefully killing worker 2 (pid: 661)...
+Gracefully killing worker 1 (pid: 660)...
+Gracefully killing worker 9 (pid: 668)...
+Gracefully killing worker 4 (pid: 663)...
+Gracefully killing worker 10 (pid: 669)...
+Gracefully killing worker 5 (pid: 664)...
+Gracefully killing worker 7 (pid: 666)...
+Gracefully killing worker 8 (pid: 667)...
+Gracefully killing worker 3 (pid: 662)...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 10 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /drone_manager/drone_manager/HubServer
+closing all non-uwsgi socket fds > 2 (max_fd = 1024)...
+found fd 3 mapped to socket 0 (127.0.0.1:8002)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from drone_manager_app.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Tue Jul 20 02:29:54 2021] ***
+compiled with version: 8.3.0 on 19 July 2021 18:10:34
+os: Linux-4.19.0-17-amd64 #1 SMP Debian 4.19.194-2 (2021-06-21)
+nodename: django-server
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /drone_manager/drone_manager/HubServer
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /drone_manager/drone_manager/HubServer
+your processes number limit is 7866
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited INET address 127.0.0.1:8002 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.3 (default, Jan 22 2021, 20:04:44)  [GCC 8.3.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55708e288d20
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801944 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55708e288d20 pid: 649 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 649)
+spawned uWSGI worker 1 (pid: 6259, cores: 1)
+spawned uWSGI worker 2 (pid: 6260, cores: 1)
+spawned uWSGI worker 3 (pid: 6261, cores: 1)
+spawned uWSGI worker 4 (pid: 6262, cores: 1)
+spawned uWSGI worker 5 (pid: 6263, cores: 1)
+spawned uWSGI worker 6 (pid: 6264, cores: 1)
+spawned uWSGI worker 7 (pid: 6265, cores: 1)
+spawned uWSGI worker 8 (pid: 6266, cores: 1)
+spawned uWSGI worker 9 (pid: 6267, cores: 1)
+spawned uWSGI worker 10 (pid: 6268, cores: 1)
+Tue Jul 20 02:31:23 2021 - uWSGI worker 10 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 9 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 8 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 7 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Tue Jul 20 02:31:23 2021 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
