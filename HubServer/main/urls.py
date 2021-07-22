@@ -5,6 +5,7 @@ urlpatterns = [
     path('orders', views.create_drone),
     path('drones', views.manage_drones),
     path('hubs', views.manage_hubs),
-    path('acceleration', views.apply_acceleration)
+    path('acceleration', views.apply_acceleration),
+    path('timestamp', views.return_system_state)
 ]
 

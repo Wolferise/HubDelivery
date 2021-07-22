@@ -42,3 +42,8 @@ class HUB(models.Model):
     class Meta:
         managed = True
         db_table = 'hub'
+
+
+class TIMESTAMP(models.model):
+    timestamp = models.BigIntegerField(blank=True, null=True)
+    system_state = models.TextField(blank=True, null=True)

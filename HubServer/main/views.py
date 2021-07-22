@@ -3,7 +3,7 @@ import django
 import requests
 import ast
 import json
-from .models import BPLA, HUB, ORDER
+from .models import BPLA, HUB, ORDER, TIMESTAMP
 import math
 import time
 from django.views.decorators.csrf import csrf_exempt
@@ -229,6 +229,9 @@ def manage_drones(request):
                     drones_to_delete_array.append(drone.id)
                     drone.delete()
             backend_add_drone_url = "http://45.79.251.166:8080/api/drones"
+            new_system_state = TIMESTAMP(timestamp = int(time.time()),
+                                         system_state=str(update_dict))
+            new_system_state.save()
             requests.put(backend_add_drone_url, json=json.dumps(update_dict))
             delete_dict.update({'id': drones_to_delete_array})
             backend_delete_drone_url = "http://45.79.251.166:8080/api/drones"
@@ -265,3 +268,11 @@ def manage_hubs(request):
     if request.method == "DELETE":
         HUB.objects.all().delete()
         return HttpResponse("Successfully erased all hub data.")
+
+
+@csrf_exempt
+def return_system_state(request):
+    timestamp = request.GET
+    # сделать трай-эксепт на нужный тип ошибки
+    system_state = TIMESTAMP.objects.filter(timestamp__lte=timestamp['timestamp'] + 5).filter(timestamp__gte=timestamp['timestamp'] - 5)[0]
+    return HttpResponse(json.dumps(ast.literal_eval(system_state.system_state)), content_type="application/json")
